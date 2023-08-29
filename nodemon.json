@@ -1,4 +1,0 @@
-{
-    "verbose": true,
-    "ignore": ["*.test.js","frontend/*", "node_modules/*","**/integration-test/*"]
-  }
